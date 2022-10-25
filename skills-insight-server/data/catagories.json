@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "UI/UX"
+    },
+    {
+        "id": "2",
+        "name": "WEB DEVELOPMENT"
+    },
+    {
+        "id": "3",
+        "name": "MOBILE APP"
+    },
+    {
+        "id": "4",
+        "name": "DIGITAL MARKETING"
+    },
+    {
+        "id": "5",
+        "name": "SOFTWARE DEVELOPMENT"
+    },
+    {
+        "id": "6",
+        "name": "MACHINE LEARNING"
+    }
+]

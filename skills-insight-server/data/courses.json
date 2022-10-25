@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "11",
+        "category_id": "2",
+        "title": "Web design and development ",
+        "author_name": "Jimmy Dane",
+        "enrolled student": "2k",
+        "img": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "rating": "4",
+        "details": "In this course you will gain the skills on several field of web development such as react,bootstrap,tailwind,jquery,mongodb"
+    },
+    {
+        "_id": "12",
+        "category_id": "2",
+        "title": "Web design with Wordpress",
+        "author_name": "Jimmy Dane",
+        "enrolled student": "1.5k",
+        "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "rating": "3.5",
+        "details": "In this course you will gain the skills. You will know how to create website with wordpress"
+    },
+    {
+        "_id": "13",
+        "category_id": "1",
+        "title": "UI Design with figma ",
+        "author_name": "The rock",
+        "enrolled student": "4k",
+        "img": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "figma"
+    },
+    {
+        "_id": "14",
+        "category_id": "1",
+        "title": "UX Design with dribble ",
+        "author_name": "The rock",
+        "enrolled student": "3k",
+        "img": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "drible"
+    },
+    {
+        "_id": "15",
+        "category_id": "3",
+        "title": "Android app development with Android studio ",
+        "author_name": "John Cena",
+        "enrolled student": "1.3k",
+        "img": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "android studio"
+    },
+    {
+        "_id": "16",
+        "category_id": "3",
+        "title": "Android app development from scratch",
+        "author_name": "The rock",
+        "enrolled student": "4k",
+        "img": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "3.5",
+        "details": "Scratch"
+    },
+    {
+        "_id": "17",
+        "category_id": "4",
+        "title": "Digital Marketing Specialization",
+        "author_name": "Andrew",
+        "enrolled student": "4k",
+        "img": "https://images.unsplash.com/photo-1661956602868-6ae368943878?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "Dm specialization"
+    },
+    {
+        "_id": "18",
+        "category_id": "4",
+        "title": "Search engine optimization course",
+        "author_name": "Andrew",
+        "enrolled student": "7k",
+        "img": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "rating": "5",
+        "details": "Seo"
+    },
+    {
+        "_id": "19",
+        "category_id": "5",
+        "title": "Software development basic to advance ",
+        "author_name": "Rob Antony",
+        "enrolled student": "4k",
+        "img": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
+        "rating": "4.5",
+        "details": "SW b 2 a"
+    },
+    {
+        "_id": "20",
+        "category_id": "5",
+        "title": "Software development crash course",
+        "author_name": "Rob Antony",
+        "enrolled student": "4k",
+        "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "sw cc"
+    },
+    {
+        "_id": "21",
+        "category_id": "6",
+        "title": "Machine Learning with Python",
+        "author_name": "Alexzander Russey",
+        "enrolled student": "7k",
+        "img": "https://images.unsplash.com/photo-1485796826113-174aa68fd81b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "Mpyton"
+    },
+    {
+        "_id": "22",
+        "category_id": "6",
+        "title": "Machine Learning and data science",
+        "author_name": "Alexzander Russey",
+        "enrolled student": "8k",
+        "img": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "rating": "4.5",
+        "details": "Mdata science"
+    }
+]
