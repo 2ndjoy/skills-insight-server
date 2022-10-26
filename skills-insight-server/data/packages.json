@@ -1,0 +1,20 @@
+[
+    {
+        "id": "100",
+        "price": "0",
+        "title": "Free",
+        "inside": "This is our free package"
+    },
+    {
+        "id": "200",
+        "price": "50",
+        "title": "Premium",
+        "inside": "This is our premium package"
+    },
+    {
+        "id": "300",
+        "price": "100",
+        "title": "Basic",
+        "inside": "This is our basic package"
+    }
+]

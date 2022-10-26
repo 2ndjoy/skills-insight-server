@@ -9,6 +9,7 @@ app.use(cors());
 
 const catagories = require('./data/catagories.json');
 const courses = require('./data/courses.json');
+const packages = require('./data/packages.json');
 
 app.get('/', (req, res) => {
     res.send('Course api running')
@@ -21,6 +22,10 @@ app.get('/catagories', (req, res) => {
 
 app.get('/courses', (req, res) => {
     res.send(courses);
+});
+
+app.get('/packages', (req, res) => {
+    res.send(packages);
 });
 
 app.get('/catagories/courses/:id', (req, res) => {
