@@ -36,5 +36,5 @@ app.get('/catagories/courses/:id', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('News server is running on port', port)
+    console.log('topic server is running on port', port)
 })
