@@ -27,7 +27,7 @@
         "enrolled student": "4k",
         "img": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "figma"
+        "details": "In this course you will learn core concepts of ui designing using figma"
     },
     {
         "_id": "14",
@@ -37,7 +37,7 @@
         "enrolled student": "3k",
         "img": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "drible"
+        "details": "In this course you will learn core concepts of ux designing using dribble"
     },
     {
         "_id": "15",
@@ -47,7 +47,7 @@
         "enrolled student": "1.3k",
         "img": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "android studio"
+        "details": "In this course you will learn core concepts of app development using android studio"
     },
     {
         "_id": "16",
@@ -57,7 +57,7 @@
         "enrolled student": "4k",
         "img": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "3.5",
-        "details": "Scratch"
+        "details": "In this course you will learn core concepts of android app development from scratch"
     },
     {
         "_id": "17",
@@ -67,7 +67,7 @@
         "enrolled student": "4k",
         "img": "https://images.unsplash.com/photo-1661956602868-6ae368943878?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "Dm specialization"
+        "details": "In this course you will learn core concepts of Digital marketing"
     },
     {
         "_id": "18",
@@ -77,7 +77,7 @@
         "enrolled student": "7k",
         "img": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "rating": "5",
-        "details": "Seo"
+        "details": "In this course you will learn core concepts of Search engine optimization"
     },
     {
         "_id": "19",
@@ -87,7 +87,7 @@
         "enrolled student": "4k",
         "img": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
         "rating": "4.5",
-        "details": "SW b 2 a"
+        "details": "In this course you will learn core concepts of software development from basic to advance"
     },
     {
         "_id": "20",
@@ -97,7 +97,7 @@
         "enrolled student": "4k",
         "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "sw cc"
+        "details": "In this crash course you will learn core concepts of software development"
     },
     {
         "_id": "21",
@@ -107,7 +107,7 @@
         "enrolled student": "7k",
         "img": "https://images.unsplash.com/photo-1485796826113-174aa68fd81b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "Mpyton"
+        "details": "In this course you will learn core concepts of Machine Learning with Python"
     },
     {
         "_id": "22",
@@ -117,6 +117,6 @@
         "enrolled student": "8k",
         "img": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "rating": "4.5",
-        "details": "Mdata science"
+        "details": "In this course you will learn core concepts of Machine Learning and data science"
     }
 ]

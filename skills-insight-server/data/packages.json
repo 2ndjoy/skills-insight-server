@@ -3,18 +3,21 @@
         "id": "100",
         "price": "0",
         "title": "Free",
-        "inside": "This is our free package"
+        "inside": "This is our free package",
+        "facilities": "You will get the course free. There won't be any certificate. You will get help from our group"
     },
     {
         "id": "200",
         "price": "50",
         "title": "Premium",
-        "inside": "This is our premium package"
+        "inside": "This is our premium package",
+        "facilities": "You will get the premium package. You will also get a certificate. You will get help from our us directly"
     },
     {
         "id": "300",
         "price": "100",
         "title": "Basic",
-        "inside": "This is our basic package"
+        "inside": "This is our basic package",
+        "facilities": "You will get the course at basic price. You will also get a certificate. You will get help from our support session"
     }
 ]
